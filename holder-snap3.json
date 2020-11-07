@@ -2,18 +2,6 @@
 	"data": {
 		"users": [
 			{
-				"address": "0x806e280c7214c9e3c11a3c7fa047764f69f4bc24",
-				"balance": "900000000000000000000000",
-				"id": "0x806e280c7214c9e3c11a3c7fa047764f69f4bc24",
-				"transactionCount": 1
-			},
-			{
-				"address": "0x8ab3e1faeb44b51e003a8bf1338b090dd5247e50",
-				"balance": "32604099706804323597953",
-				"id": "0x8ab3e1faeb44b51e003a8bf1338b090dd5247e50",
-				"transactionCount": 5994
-			},
-			{
 				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
 				"balance": "10713321996526208385482",
 				"id": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
@@ -32,22 +20,10 @@
 				"transactionCount": 12
 			},
 			{
-				"address": "0x6621ca7b8edeb023ff32816b3996abd0c77579dc",
-				"balance": "6980056618636592844722",
-				"id": "0x6621ca7b8edeb023ff32816b3996abd0c77579dc",
-				"transactionCount": 543
-			},
-			{
 				"address": "0xa4bd82608192eddf2a587215085786d1630085e8",
 				"balance": "3000007722162285240786",
 				"id": "0xa4bd82608192eddf2a587215085786d1630085e8",
 				"transactionCount": 65
-			},
-			{
-				"address": "0x9f3687a47d887a9f497d168874a05edd5d56a4de",
-				"balance": "2395954858719636340728",
-				"id": "0x9f3687a47d887a9f497d168874a05edd5d56a4de",
-				"transactionCount": 433
 			},
 			{
 				"address": "0x037894e66d4c55b2af2f7c7be09ffca1fd808b40",
@@ -59,12 +35,6 @@
 				"address": "0x0e621e8146b009e6428ecc39e5c3b82aa097fe61",
 				"balance": "2102049218044327235761",
 				"id": "0x0e621e8146b009e6428ecc39e5c3b82aa097fe61",
-				"transactionCount": 5
-			},
-			{
-				"address": "0x3084807d124442f21f63212577313de6feb44b47",
-				"balance": "2040777285949468003907",
-				"id": "0x3084807d124442f21f63212577313de6feb44b47",
 				"transactionCount": 5
 			},
 			{
