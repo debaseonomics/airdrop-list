@@ -1,0 +1,406 @@
+{
+	"data": {
+		"users": [
+			{
+				"address": "0x313bbb5da55f6087f62dda5329b5e466698c4d48",
+				"debaseBalance": "12166032687086813942686"
+			},
+			{
+				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
+				"debaseBalance": "7095903588680589845563"
+			},
+			{
+				"address": "0xec637b10a6927a30afe95de91954f2112264a90e",
+				"debaseBalance": "402163351719613723077"
+			},
+			{
+				"address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+				"debaseBalance": "107770876959385794399"
+			},
+			{
+				"address": "0x23b500af90b1c67e97de5ed6d77cd375c791e3e5",
+				"debaseBalance": "104679645264881728849"
+			},
+			{
+				"address": "0xc10706f8ffe094efb5f716b162dd1e8464927890",
+				"debaseBalance": "-4321798825587935500"
+			},
+			{
+				"address": "0x639090cdd215010fe54c36a49bbd1604f034e1d4",
+				"debaseBalance": "-8917172656692044816"
+			},
+			{
+				"address": "0xc10f98a345ae77cdeeb0f4945c483cf908b95843",
+				"debaseBalance": "-9938277625055129754"
+			},
+			{
+				"address": "0x54a85cfdb41f0b4f9001b4837e594940d375ed37",
+				"debaseBalance": "-11461607173484291581"
+			},
+			{
+				"address": "0xb55cf9b1c55c8850ca7cafd74ccdaea89137c11f",
+				"debaseBalance": "-13749885682315067003"
+			},
+			{
+				"address": "0x1d47412b586d3839f83e9a942fb9d094443ecbef",
+				"debaseBalance": "-15751857307833648437"
+			},
+			{
+				"address": "0x4ce7d126dcb606008a711b46c2d8df50d88e4244",
+				"debaseBalance": "-16651546532285590195"
+			},
+			{
+				"address": "0x4b9ba15b4c342ddc6e5ac720ee9d1b84ed1b4f73",
+				"debaseBalance": "-18452562505706956931"
+			},
+			{
+				"address": "0x9eccdb5eb5b68a59d9afd0d67c4fe1c120ade3b3",
+				"debaseBalance": "-18462036057245948617"
+			},
+			{
+				"address": "0x3d16451a4b73e778bfec126025ba79716a17e32d",
+				"debaseBalance": "-21345707243712820713"
+			},
+			{
+				"address": "0x355c1cf73c2c1d0193b0dac92863d5f254a3e83d",
+				"debaseBalance": "-23707340729995883239"
+			},
+			{
+				"address": "0x9a61ddfa98055f1e286d7fd53499bc28ca8aca70",
+				"debaseBalance": "-23987138186310001892"
+			},
+			{
+				"address": "0x46b8ffc41f26cd896e033942caf999b78d10c277",
+				"debaseBalance": "-25943648367912198789"
+			},
+			{
+				"address": "0x7c2571cd78edabe681e6db9dd3c2ec8f2e5229fa",
+				"debaseBalance": "-29639497881071354326"
+			},
+			{
+				"address": "0xaf1be417ce8f04ccb372eaa2a298d3fdd45fcf9d",
+				"debaseBalance": "-30228088810206485574"
+			},
+			{
+				"address": "0xa13c2def62c36697407fbe7d574e946bf60d7350",
+				"debaseBalance": "-34629928725421781668"
+			},
+			{
+				"address": "0xe4083f1e4ecde085bf7cfa1ac4f1f9a02905698c",
+				"debaseBalance": "-37266321144081197022"
+			},
+			{
+				"address": "0xb02f6c30bcf0d42e64712c28b007b85c199db43f",
+				"debaseBalance": "-39572670213311331121"
+			},
+			{
+				"address": "0x51ba70581c614cd8f5d6aad47be11661de6e8c89",
+				"debaseBalance": "-41670871560925586443"
+			},
+			{
+				"address": "0x3f805d522b57ddc95232bca06f68c166c860c55f",
+				"debaseBalance": "-43908079726936753767"
+			},
+			{
+				"address": "0xceb8fa8652a2b3de9f0caf9209ca5e28b24cd249",
+				"debaseBalance": "-45719452492452394067"
+			},
+			{
+				"address": "0xc05bc25eaa52a23476e113b9a139a66e7473b364",
+				"debaseBalance": "-46043883989584772355"
+			},
+			{
+				"address": "0x37fdc71386c771ac00dd6e59dac73e4a93c4022e",
+				"debaseBalance": "-46354997730975542572"
+			},
+			{
+				"address": "0x8c7398b7b86fe7313043b4013749a92864885bac",
+				"debaseBalance": "-48714558086498487864"
+			},
+			{
+				"address": "0xafd2fedcc22e857bc82865838f43053f261fd581",
+				"debaseBalance": "-53356638948846394072"
+			},
+			{
+				"address": "0x190256bcd568768866ed408f2c25cf9404366fd6",
+				"debaseBalance": "-60038672837248802493"
+			},
+			{
+				"address": "0x4e97da0282bb922c4938bf6122f8e493d6fd6a20",
+				"debaseBalance": "-68347853336361250452"
+			},
+			{
+				"address": "0xf2306b7547b4e7c3d2b4f0864900414a91d5571f",
+				"debaseBalance": "-68752350704987051673"
+			},
+			{
+				"address": "0x52d4d46e28dc72b1cef2cb8eb5ec75dd12bc4df3",
+				"debaseBalance": "-69947412993362574011"
+			},
+			{
+				"address": "0x001c88d92d199c9eb936ed3d6758da7c48e4d08e",
+				"debaseBalance": "-71285738294083893014"
+			},
+			{
+				"address": "0x35b02ba4709fbc10af6233da658f866e37543c19",
+				"debaseBalance": "-73315127139157144788"
+			},
+			{
+				"address": "0x2759321df4c0f0475c41bbf9d17891bd42e32c3c",
+				"debaseBalance": "-78856992058382491109"
+			},
+			{
+				"address": "0xe9b512d546371c379ac38c7c4e82b66d13aeae44",
+				"debaseBalance": "-79970981250294412367"
+			},
+			{
+				"address": "0x8aac7249d573a12664a4d6667d8869756b9ee75e",
+				"debaseBalance": "-86248452252744527803"
+			},
+			{
+				"address": "0x4adbf598af825b14db8c0c8fb4b3ed8b898e6364",
+				"debaseBalance": "-86448958444679460862"
+			},
+			{
+				"address": "0x4ffb25e76dc6215534305a2b55fa1736ed9d7ebf",
+				"debaseBalance": "-86759516776091051518"
+			},
+			{
+				"address": "0x91187faa59187dc04fc785d025fecdd04b2bd818",
+				"debaseBalance": "-97592953343269953687"
+			},
+			{
+				"address": "0x563877b0509424182cb75d1250c062ccef36b425",
+				"debaseBalance": "-97748638897951863760"
+			},
+			{
+				"address": "0xe88f42474046183f2367066cd940e74ded8085fe",
+				"debaseBalance": "-103650553560557606964"
+			},
+			{
+				"address": "0xfdb771816fdb68846dbfdba9c74a40f5167224ad",
+				"debaseBalance": "-104248290034161668614"
+			},
+			{
+				"address": "0xd504b8251baaa93db421c558d4603fcf41f0681f",
+				"debaseBalance": "-107846954158006669551"
+			},
+			{
+				"address": "0xcca178a04d83af193330c7927fb9a42212fb1c25",
+				"debaseBalance": "-108991931902770460604"
+			},
+			{
+				"address": "0x64d33dd8cf24c3569252a27c1b782e15b77af628",
+				"debaseBalance": "-110453982741038647676"
+			},
+			{
+				"address": "0x70f1033420e6a50dcb9894cb76afa5443d749d4c",
+				"debaseBalance": "-114523705408292362524"
+			},
+			{
+				"address": "0x7ce8cd580cfae9f162bcbbfa80dcf3765f99ca7f",
+				"debaseBalance": "-119213219052809535866"
+			},
+			{
+				"address": "0x7aae4186890d72a06404c4efc4649e3dbeb87146",
+				"debaseBalance": "-122382642410713916181"
+			},
+			{
+				"address": "0xe05348341405c6721c901f950c5ee585e4650055",
+				"debaseBalance": "-130979936078459526979"
+			},
+			{
+				"address": "0x4a0573f70e77a28dd079c0e079174135ab6b41c5",
+				"debaseBalance": "-138686753351595494953"
+			},
+			{
+				"address": "0x9d964da32913be69ec963e4a7ba8a08a6e1437e7",
+				"debaseBalance": "-140079178467675327813"
+			},
+			{
+				"address": "0x5c53edc8eaae7e5465a3f49697e83174f5fc4ed0",
+				"debaseBalance": "-140839986403934621712"
+			},
+			{
+				"address": "0x306bf96102ebe58579dff7b3c3c54dc360bddb30",
+				"debaseBalance": "-140880534167776547499"
+			},
+			{
+				"address": "0x69bb92bf0641df61783ea18c01f96656424bd76c",
+				"debaseBalance": "-142651999450335428771"
+			},
+			{
+				"address": "0x178a61498172d59bad609b7ad2469dd555642151",
+				"debaseBalance": "-144077471670356647854"
+			},
+			{
+				"address": "0x9407a95adf5e9481c3321126afb72241b89de296",
+				"debaseBalance": "-151005708930159712587"
+			},
+			{
+				"address": "0xe7e46ef37090d4d48bdeda12ebe74459175776cb",
+				"debaseBalance": "-154981766417828822475"
+			},
+			{
+				"address": "0xfc6d61941f1e42883a98b641ec411c8ab2a4c93e",
+				"debaseBalance": "-157435488256908851021"
+			},
+			{
+				"address": "0x81aa6141923ea42fcaa763d9857418224d9b025a",
+				"debaseBalance": "-168004759445318652039"
+			},
+			{
+				"address": "0xf96d09c553db50ef8198eed965df9e660133c23a",
+				"debaseBalance": "-168899273731804131419"
+			},
+			{
+				"address": "0xd329101c435e69f19b7b91241649e11f3f5bbe2f",
+				"debaseBalance": "-169130325908034174825"
+			},
+			{
+				"address": "0xcce15dab72f0c54014f2fe8ebcd2085d3721df03",
+				"debaseBalance": "-170181286784707816910"
+			},
+			{
+				"address": "0x785bc2484a15dc9a8b644024fc142e8bca1289ae",
+				"debaseBalance": "-203323271475320073553"
+			},
+			{
+				"address": "0x9fc152fb476388c94d50d83dc2545fbbbd6d7aee",
+				"debaseBalance": "-204658061796464322288"
+			},
+			{
+				"address": "0xc3a25e152f32f492b3af0d17b93381c10d02d3a3",
+				"debaseBalance": "-205654754736183364946"
+			},
+			{
+				"address": "0x0de35b8b1692d168d9af70760ec1cbf607901f25",
+				"debaseBalance": "-213625739163829178409"
+			},
+			{
+				"address": "0xdd45f56bd7b0390a31e3c5ee88a200a9591bc361",
+				"debaseBalance": "-219457319583955891440"
+			},
+			{
+				"address": "0x8acc5677f98b86c407bfa7861f53857430ba3904",
+				"debaseBalance": "-246807098664728150707"
+			},
+			{
+				"address": "0x87675e9cea1c1d0825be344f65a15f0ffd641a74",
+				"debaseBalance": "-252054113002927023642"
+			},
+			{
+				"address": "0x8c9e7a92ad47eb67f757e1461f44fffb6bd3dd4d",
+				"debaseBalance": "-281399166875993561359"
+			},
+			{
+				"address": "0xb2ed0ae7c335482ae8b50f61d1dcfc1882233bfa",
+				"debaseBalance": "-288034352120522929776"
+			},
+			{
+				"address": "0xbfcabd0d04311f4438a689f72e310a826c4773c2",
+				"debaseBalance": "-300986921724977126414"
+			},
+			{
+				"address": "0xeb7064239680cbdd70abf6351de93924d590852b",
+				"debaseBalance": "-313457244590086885708"
+			},
+			{
+				"address": "0x77b5b0266d16d55351680b8961784e1c85e12c14",
+				"debaseBalance": "-314706811125878525233"
+			},
+			{
+				"address": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
+				"debaseBalance": "-315223198451531209863"
+			},
+			{
+				"address": "0x1f8c7def38b418dfc255f08f390476285d578b05",
+				"debaseBalance": "-315356817392189801559"
+			},
+			{
+				"address": "0xcc39d82c6793af55fa608ab934db5da8399432dd",
+				"debaseBalance": "-331731556397027882357"
+			},
+			{
+				"address": "0x31bfae2aaf93bfae72bb3b1674676b581d00cc42",
+				"debaseBalance": "-336768923438669697336"
+			},
+			{
+				"address": "0x7cd567cee4d4f0c1a1ee32310befe614b8df0ed7",
+				"debaseBalance": "-338302308909207006876"
+			},
+			{
+				"address": "0x876f5498c7b60ebeca2148b19d0455e69c2710eb",
+				"debaseBalance": "-369018441198763027451"
+			},
+			{
+				"address": "0xbc159b71c296c21a1895a8ddf0aa45969c5f17c2",
+				"debaseBalance": "-370454921644893068922"
+			},
+			{
+				"address": "0x1e41cda89abdbb72fb639b35ba8dd2ac069dc025",
+				"debaseBalance": "-407553185733411133990"
+			},
+			{
+				"address": "0x1114dc2a9853b065fc61fe6ac16c9f789771b30d",
+				"debaseBalance": "-438944162050912185024"
+			},
+			{
+				"address": "0xe53e7aff40bb7ef958bf98a67b9df8d0016deeaf",
+				"debaseBalance": "-458939839585336713645"
+			},
+			{
+				"address": "0xff74a253b6bad54368841ae45e6a70004ffe9bd3",
+				"debaseBalance": "-486885374961686383542"
+			},
+			{
+				"address": "0x8fe9c787995d12b6ef3a9448aa944593dac93c6c",
+				"debaseBalance": "-540045161549919054765"
+			},
+			{
+				"address": "0xa4bd82608192eddf2a587215085786d1630085e8",
+				"debaseBalance": "-619262188838853313577"
+			},
+			{
+				"address": "0x48f0c9a48504cf02a4386496af8d859e384a7eab",
+				"debaseBalance": "-623610391149734081260"
+			},
+			{
+				"address": "0x5452b61588afb25f43b15ac8625d11b42e490e40",
+				"debaseBalance": "-624270457901190785683"
+			},
+			{
+				"address": "0x37866b41703aad3d2536a2a17e2e520f2b28fdb7",
+				"debaseBalance": "-634155162026093758853"
+			},
+			{
+				"address": "0xe00e7e8f2134f6656cdf6a65888654662a4bda18",
+				"debaseBalance": "-655644469259323553293"
+			},
+			{
+				"address": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
+				"debaseBalance": "-666721003781758000515"
+			},
+			{
+				"address": "0x10376fbc611ba48b6b75fe39d5bcc855b0595624",
+				"debaseBalance": "-698228125308093317086"
+			},
+			{
+				"address": "0xa43b30fb0333e5d68cbe36e20c6accab28f82cc3",
+				"debaseBalance": "-727904567456939319612"
+			},
+			{
+				"address": "0x667f7d0db0744698d7c3be3e5d80d216d6439bfa",
+				"debaseBalance": "-768421401053947825171"
+			},
+			{
+				"address": "0xc13ba51d26d1b2022fa51e25243bb49a54c4a953",
+				"debaseBalance": "-790675471926002140212"
+			},
+			{
+				"address": "0x2fe4c24391458cb81f1699444312fc8626518648",
+				"debaseBalance": "-802746300509603305902"
+			}
+		]
+	}
+}
