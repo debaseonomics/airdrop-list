@@ -9,7 +9,7 @@
 			},
 			{
 				"address": "0x9d3cbd9c7e56f09b2760115821b1e0632979bf02",
-				"balance": "1727794982233239367067",
+				"balance": "1993584276629907202664",
 				"id": "0x9d3cbd9c7e56f09b2760115821b1e0632979bf02",
 				"transactionCount": 46
 			},
@@ -393,7 +393,7 @@
 			},
 			{
 				"address": "0x590dfbd53781c6d9d8404eb8e1847fea1afad319",
-				"balance": "113211298437315533058",
+				"balance": "151610493504821390254",
 				"id": "0x590dfbd53781c6d9d8404eb8e1847fea1afad319",
 				"transactionCount": 18
 			},
@@ -610,7 +610,7 @@
 			},
 			{
 				"address": "0xaf2421c87c72e91e08c3126d89dcb3d8a94fe702",
-				"balance": "59367702205438953281",
+				"balance": "769282647391612285619",
 				"id": "0xaf2421c87c72e91e08c3126d89dcb3d8a94fe702",
 				"transactionCount": 44
 			},
@@ -2028,7 +2028,7 @@
 			},
 			{
 				"address": "0x548efce69bb82a16f3911a86a65384327c99c3ab",
-				"balance": "5952991407560918657",
+				"balance": "167051353870520585714",
 				"id": "0x548efce69bb82a16f3911a86a65384327c99c3ab",
 				"transactionCount": 32
 			},
@@ -2827,7 +2827,7 @@
 			},
 			{
 				"address": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
-				"balance": "705637922198779838",
+				"balance": "59533209653572382922",
 				"id": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
 				"transactionCount": 9
 			},
@@ -3194,7 +3194,7 @@
 			},
 			{
 				"address": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
-				"balance": "0",
+				"balance": "73212886962100705663",
 				"id": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
 				"transactionCount": 14
 			},
@@ -4240,7 +4240,7 @@
 			},
 			{
 				"address": "0x37fdc71386c771ac00dd6e59dac73e4a93c4022e",
-				"balance": "0",
+				"balance": "6505562171922794859",
 				"id": "0x37fdc71386c771ac00dd6e59dac73e4a93c4022e",
 				"transactionCount": 8
 			},
@@ -7677,7 +7677,7 @@
 			},
 			{
 				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
-				"balance": "0",
+				"balance": "4793412985482957022247",
 				"id": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
 				"transactionCount": 118
 			},

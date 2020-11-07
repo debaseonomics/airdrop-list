@@ -2,42 +2,6 @@
 	"data": {
 		"users": [
 			{
-				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
-				"debaseBalance": "4793412985482957022247"
-			},
-			{
-				"address": "0xaf2421c87c72e91e08c3126d89dcb3d8a94fe702",
-				"debaseBalance": "709914945186173332338"
-			},
-			{
-				"address": "0x9d3cbd9c7e56f09b2760115821b1e0632979bf02",
-				"debaseBalance": "265789294396667835597"
-			},
-			{
-				"address": "0x548efce69bb82a16f3911a86a65384327c99c3ab",
-				"debaseBalance": "161098362462959667057"
-			},
-			{
-				"address": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
-				"debaseBalance": "73212886962100705663"
-			},
-			{
-				"address": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
-				"debaseBalance": "58827571731373603084"
-			},
-			{
-				"address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
-				"debaseBalance": "49999999999999999999"
-			},
-			{
-				"address": "0x590dfbd53781c6d9d8404eb8e1847fea1afad319",
-				"debaseBalance": "38399195067505857196"
-			},
-			{
-				"address": "0x37fdc71386c771ac00dd6e59dac73e4a93c4022e",
-				"debaseBalance": "6505562171922794859"
-			},
-			{
 				"address": "0xc10706f8ffe094efb5f716b162dd1e8464927890",
 				"debaseBalance": "-4321798825587935500"
 			},
