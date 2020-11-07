@@ -2,26 +2,6 @@
 	"data": {
 		"users": [
 			{
-				"address": "0x313bbb5da55f6087f62dda5329b5e466698c4d48",
-				"debaseBalance": "12166032687086813942686"
-			},
-			{
-				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
-				"debaseBalance": "7095903588680589845563"
-			},
-			{
-				"address": "0xec637b10a6927a30afe95de91954f2112264a90e",
-				"debaseBalance": "402163351719613723077"
-			},
-			{
-				"address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
-				"debaseBalance": "107770876959385794399"
-			},
-			{
-				"address": "0x23b500af90b1c67e97de5ed6d77cd375c791e3e5",
-				"debaseBalance": "104679645264881728849"
-			},
-			{
 				"address": "0xc10706f8ffe094efb5f716b162dd1e8464927890",
 				"debaseBalance": "-4321798825587935500"
 			},
