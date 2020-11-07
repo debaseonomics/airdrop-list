@@ -159,7 +159,7 @@
 			},
 			{
 				"address": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
-				"balance": "354222904458338147444",
+				"balance": "5147635889941295169691",
 				"id": "0xf8508c2e0780ccdc3658e96f1c299a7fae035f4c",
 				"transactionCount": 123
 			},
@@ -742,7 +742,7 @@
 			},
 			{
 				"address": "0x548efce69bb82a16f3911a86a65384327c99c3ab",
-				"balance": "55725994806985384626",
+				"balance": "216824357269945051683",
 				"id": "0x548efce69bb82a16f3911a86a65384327c99c3ab",
 				"transactionCount": 33
 			},
@@ -2707,7 +2707,7 @@
 			},
 			{
 				"address": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
-				"balance": "705637922198779838",
+				"balance": "59533209653572382922",
 				"id": "0xd453fac4f90af5c73e9efad44da3af54a3fad266",
 				"transactionCount": 9
 			},
@@ -3062,7 +3062,7 @@
 			},
 			{
 				"address": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
-				"balance": "0",
+				"balance": "73212886962100705663",
 				"id": "0x04b936745c02e8cb75cc68b93b4fb99b38939d5d",
 				"transactionCount": 14
 			},
