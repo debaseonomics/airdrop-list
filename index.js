@@ -22,9 +22,9 @@ try {
 
 	// print all databases
 
-	let snap1Supply = 42000;
-	let snap2Supply = 12000;
-	let snap3Supply = 6000;
+	let snap1Supply = 45500;
+	let snap2Supply = 13000;
+	let snap3Supply = 6500;
 
 	const balance1 = 51131.41977538134;
 	const balance2 = 53862.33471932199;
